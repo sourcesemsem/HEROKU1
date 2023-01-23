@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "name": "سورس تيبثون العربي",
+  "description": "اللهم صلي وسلم وبارك على سيدنا محمد وعلى ال محمد كما صليت على إبراهيم وعلى آل إبراهيم بالعالمين انك حميدٌ مجيد",
+  "logo": "https://telegra.ph/file/b4aaca9a2ab1dbf5228da.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/thejmthon/heroku",
+  "repository": "https://github.com/Tepthonee/heroku",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
